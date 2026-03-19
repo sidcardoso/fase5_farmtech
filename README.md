@@ -48,7 +48,7 @@ Todo o desenvolvimento técnico, análises, modelos e conclusões estão documen
 ## 🎥 Vídeo Demonstrativo — Entrega 1
 
 > **📹 Link do vídeo (YouTube — não listado):**  
-> *(Inserir link após gravação)*
+[> *(Inserir link após gravação)*](https://youtu.be/fo2wfJZq-oA)
 
 ---
 
