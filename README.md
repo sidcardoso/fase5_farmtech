@@ -173,8 +173,8 @@ A diferença de ~$5,72/mês (~R$29,00/mês) é **negligenciável** diante dos ri
 
 ## 🎥 Vídeo Demonstrativo — Entrega 2 (AWS)
 
-> **📹 Link do vídeo (YouTube — não listado):**  
-> *(Inserir link após gravação)*
+> **📹 Link do vídeo (YouTube — não listado):**
+> https://youtu.be/fo2wfJZq-oA
 
 ---
 
