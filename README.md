@@ -17,7 +17,7 @@ A **FarmTech Solutions** presta serviços de IA para uma fazenda de médio porte
 
 ```
 📦 fase5farmtech/
-├── 📓 FarmTech_Solutions_rm_pbl_fase4.ipynb   ← Notebook principal (toda a análise)
+├── 📓 SidneyCardoso_rm567808_pbl_fase5.ipynb  ← Notebook principal (toda a análise)
 ├── 📂 arquivo/
 │   └── crop_yield.csv                          ← Dataset com dados climáticos e rendimento
 └── 📄 README.md                                ← Este arquivo
@@ -29,7 +29,7 @@ A **FarmTech Solutions** presta serviços de IA para uma fazenda de médio porte
 
 Todo o desenvolvimento técnico, análises, modelos e conclusões estão documentados no notebook:
 
-**➡️ [`FarmTech_Solutions_rm_pbl_fase4.ipynb`](./FarmTech_Solutions_rm_pbl_fase4.ipynb)**
+**➡️ [`SidneyCardoso_rm567808_pbl_fase5.ipynb`](./SidneyCardoso_rm567808_pbl_fase5.ipynb)**
 
 ### Conteúdo do Notebook:
 
@@ -195,7 +195,7 @@ git clone https://github.com/seu-usuario/fase5farmtech.git
 cd fase5farmtech
 
 # Execute o Jupyter
-jupyter notebook FarmTech_Solutions_rm_pbl_fase4.ipynb
+jupyter notebook SidneyCardoso_rm567808_pbl_fase5.ipynb
 ```
 
 > **Importante:** Execute as células em ordem sequencial, pois cada seção depende das variáveis definidas nas anteriores.
